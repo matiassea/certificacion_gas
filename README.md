@@ -281,3 +281,64 @@ En cada recinto donde se instale un artefacto a gas se deberá indicar su Volume
 ![simbolos convencionales 8](https://user-images.githubusercontent.com/17385297/53034389-d01bf800-3451-11e9-90d5-642ab568bc63.PNG)
 
 
+
+#### Contenido del Plano. Pagina 54
+El plano deberá registrar, al menos, la siguiente información:
+- Dibujo de la construcción. Deberá incluir, al menos, la zona por la que pasa la Instalación Interior de Gas, la ubicación de sus artefactos y los recintos colindantes.
+- Dibujo de la instalación de gas. Las líneas representativas de los planos entregados físicamente, deberán cumplir con los siguientes requisitos:
+  - Formato. En general deberá estar de acuerdo con lo dispuesto en la Norma Oficial Chilena NCh14.Of1993 - Dibujos técnicos - Cuadro de rotulación, o disposición que la reemplace.
+    - Espesor. Deberá estar comprendido entre 0,3 y 1,2 (mm). Las tuberías existentes se deberán dibujar con espesores diferentes a los de las nuevas tuberías, o colocando sobre tales tuberías una letra “e” o una nota que indique la condición de “existente”.
+    - Color. Negro.
+  - Escritura normalizada. Todas las letras deberán ser mayúsculas, las que junto con las cifras deberán ser normalizadas, dibujadas en color negro y de ancho estándar.
+    - Altura. La correspondiente a las letras y números a emplear, se deberán basar, de preferencia, con las prescritas en la serie 20 de la Norma Oficial Chilena NCh20/1.Of1981 - Números preferidos - Parte 1: Series de números preferidos; NCh20/2.Of1981 - Números preferidos - Parte 2: Guía para el uso de los números preferidos y de las series de números preferidos; NCh20/3.Of1982 - Números preferidos - Parte 3: Guía para la elección de las series de números preferidos y de las series que contienen valores más redondeados de los números preferidos, según corresponda, o disposiciones que las reemplacen, siendo algunas de las alturas las siguientes:
+      - Cinco milímetros (5 mm), para la altura de “Instalación Interior”, nombre y número de la calle de la instalación.
+      - Tres milímetros (3 mm), para la altura del resto de la escritura.
+  - Espesor y ancho útil. El correspondiente a las letras, como la distancia entre éstas, palabras o líneas deberán cumplir con lo establecido en la Norma Oficial Chilena NCh15/0.Of2000 - Documentación técnica de productos - Escritura - Parte 0: Requisitos generales, en adelante e indistintamente “NCh15/0.Of2000”; NCh15/2.Of2001 - Documentación técnica de productos - Escritura - Parte 2: Alfabeto Latino, números y signos, en adelante e indistintamente “NCh15/2.Of2001”; NCh15/5.Of2000 - Documentación técnica de productos - Escritura - Parte 5: Escritura en Alfabeto Latino asistida por computador; en adelante e indistintamente “NCh15/5.Of2000”, según corresponda, o disposiciones que las reemplacen, siendo algunos ejemplos los que se entregan en la Tabla III. Requisitos para la Escritura Normalizada. Pagina 55
+
+  - Símbolos convencionales. Estos se deberán dibujar según se detallan en el Cuadro I. Símbolos Convencionales, teniendo en consideración lo siguiente:
+    - Ubicación de los medidores de gas, conjunto medidor, medidores eléctricos y cámaras de alcantarillado.
+    - La válvula de servicio de GLP.
+    - Cotas o niveles de las instalaciones de GLP.
+    - Identificación de los conductos para basura o de ventilación, chimeneas e incineradores.
+    - Para equipos y artefactos asociados a instalaciones de otros servicios, la simbología deberá ser la establecida por la autoridad competente.
+Para mayor detalle referirse a las láminas II y III de “NCh15/0.Of2000”, “NCh15/2.Of2001” o “NCh15/5.Of2000”, según corresponda, o disposiciones que las reemplacen.
+  - Tubería. Detallar la información concerniente al diámetro de la tubería de gas, los cambios de dirección, los puntos de subida o bajada, de llegada de la tubería a cada uno de los pisos y los ambientes por donde pasa dicha tubería. 
+
+#### Pagina 56
+
+
+#### Clasificación del Plano.
+De acuerdo con la ubicación y complejidad de las instalaciones interiores de gas, los planos se clasifican según los tipos que a continuación se señalan:
+- Plano Tipo I. Instalación Interior de Gas.
+Corresponde a aquella Instalación Interior de Gas, cuyo formato estándar mínimo de tales planos entregados físicamente, deberá ser A3, señalado en el numeral 42.2.1.
+- Plano Tipo II. Instalaciones interiores de gas en conjuntos habitacionales.
+Corresponde a varias instalaciones interiores de gas, ubicadas en un edificio colectivo o conjunto habitacional, el que podrá contener el dibujo de matrices interiores, según corresponda, que deberá cumplir con lo establecido en el numeral 42.4.3 precedente, con excepción de lo indicado en la Sección 3 de su literal c), lo cual deberá ser reemplazado por los requisitos que se detallan a continuación. El formato estándar mínimo de tales planos entregados físicamente, deberá ser A2, señalado en el numeral 42.2.1 precedente.
+  - Dibujo de las construcciones.
+Deberá ser un dibujo en planta de las construcciones con sus divisiones interiores.
+  - Dibujo de las instalaciones.
+Tanto para las instalaciones de matrices de distribución como para las interiores se deberán efectuar según lo ya establecido en las secciones precedentes.
+  - Dibujos complementarios.
+
+#### Pagina 57
+Se deberán incluir dibujos en el plano, a escala adecuada, que aporten información adicional, considerada indispensable, entre otra:
+i. Conductos colectivos y sombreretes.
+ii. Detalles de construcción y dimensiones del nicho de medidores de gas y su distribución esquemática.
+iii. Instalaciones del equipo de GLP, cuando corresponda.
+iv. Vistas isométricas de conductos, individuales, secundarios o colectivos, ventilaciones y tuberías, de ser necesarias.
+v. Dibujo del loteo.
+vi. Si el plano contiene instalaciones de matrices de distribución o interiores, deberá incluir un dibujo a escala 1:1.000, del plano de loteo y deberá indicar con exactitud los puntos en que se realizarán los empalmes.
+b.4 Plano de loteo.
+Si el loteo corresponde a diez (10) o más unidades, se deberá proporcionar un plano separado, que en caso de planos entregados físicamente, deberá ser en formato A3 o A4, señalados en el numeral 42.2.1 precedente.
+b.5 Cuadro de Rotulación.
+Se deberá disponer un recuadro en el ángulo inferior derecho del plano, el cual deberá estar dividido de derecha a izquierda según se detalla a continuación. Dicho cuadro, en los planos entregados físicamente, deberá presentar dimensiones interiores de 80 x 410 (mm).
+i. Sección 1. Ubicación.
+Según se establece en el literal a) del numeral 42.4.3 precedente.
+ii. Sección 2. Identificación de la instalación.
+Según se establece en el literal b) del numeral 42.4.3 precedente, a excepción del literal b.2, el cual se reemplaza por el siguiente texto:
+b.2 Conjunto Habitacional, debiendo indicar su nombre.
+
+
+
+
+
+
