@@ -141,7 +141,7 @@ Instalación de gas construida dentro de una propiedad particular y para uso exc
  
  
  
- ![instalacion interior de gas de red](https://user-images.githubusercontent.com/17385297/52853542-acc41680-30fa-11e9-8950-5847432f83ee.PNG)
+![instalacion interior de gas de red](https://user-images.githubusercontent.com/17385297/52853542-acc41680-30fa-11e9-8950-5847432f83ee.PNG)
  
 ![instalacion interior de gas con equipo de glp](https://user-images.githubusercontent.com/17385297/52853589-cfeec600-30fa-11e9-8391-3956f8e104f6.PNG)
 
@@ -150,12 +150,134 @@ Instalación de gas construida dentro de una propiedad particular y para uso exc
  
  
  
- Pagina 25
+![instalacion de gas tipo condominio](https://user-images.githubusercontent.com/17385297/53030044-e3769580-3448-11e9-99f5-5c623b8d6941.PNG)
+
+![instalacion de gas con instalaciones interiores](https://user-images.githubusercontent.com/17385297/53030058-ea050d00-3448-11e9-976e-cdb2fc6e08d3.PNG)
+
+
+#### Inversor.
+- Dispositivo manual o automático, en forma de Te, para la utilización selectiva de los cilindros tipos 33/45, que abre y cierra el paso de GLP desde tales cilindros al regulador de presión. Se utiliza para poder sustituir los cilindros vacíos por otros llenos, sin interrumpir el flujo de GLP. También se denomina como Te de distribución.
+
+
+
+
+#### En artefacto a gas de tiro natural.
+- Tiro o diferencia entre las presiones estáticas del aire en el lugar de la instalación del artefacto a gas y de los humos en el conducto de descarga sobre el cortatiro -conducto de enlace- necesario para el normal funcionamiento del artefacto.
+- Por ingreso del aire. Tiro o diferencia entre las presiones estáticas del aire en el lugar de instalación del artefacto a gas y al interior del artefacto, necesario para la admisión del aire de combustión.
+
+
+#### Presion De Servicio. 
+- Presión de suministro a la Instalación Interior de Gas, para su normal operación, cuya magnitud estará dada por la característica de ésta. La presión de servicio (PS) se clasifica según su magnitud en:
+Baja presión (BPS) : P <UN> 5 kPa
+Media presión (MPS) : 5 kPa < P <UN> 600 kPa Alta presión (APS) : P > 600 kPa.
+
+
+#### Presión Máxima de servicio.
+- Presión máxima admisible, según diseño, a la cual puede operar un tramo o la totalidad de la Instalación Interior de Gas. Es la presión utilizada para determinar la regulación de los dispositivos de alivio o limitadores de presión instalados para proteger al sistema de sobre presiones accidentales.
+
+ 
+#### De evacuación. 
+Conjunto de componentes necesarios para la evacuación de gases producto de la combustión de uno o más artefactos a gas, al exterior del recinto en que se encuentra el o los artefactos, clasificándose, entre otros, en los siguientes tipos:
+- De tiro natural. Sistema en que el tiro es producido por la diferencia de densidades entre el aire y los gases producto de la combustión, por efecto del calor.
+- Forzada. Sistema para evacuar los gases producto de la combustión, que utiliza un ventilador o extractor de aire.
+- Independiente. Sistema de conducto de evacuación que no está incorporado a la estructura del edificio, sino adosado a él por medio de fijaciones.
+- Individual. Aquel que conecta directamente la parte superior del collarín de un artefacto con el exterior, desembocando en el sombrerete. También denominado chimenea.
+- Común. Sistema de evacuación de circuito abierto, individual, en edificios no-colectivos, que sirve a dos o más artefactos instalados en la misma habitación o recinto interno, según se representa en la Figura 10. Sistema de Evacuación Común.
  
  
+#### Sombrerete.
+Dispositivo instalado en la desembocadura o cota de descarga de un conducto individual o colectivo de evacuación de gases producto de la combustión, para facilitar la difusión de éstos y proteger los conductos. En el caso de los artefactos de tiro forzado se le denomina difusor.
  
+  
+#### Te de prueba.
+Accesorio de unión en forma de Te para la ejecución de la prueba de hermeticidad a una Instalación Interior de Gas.
+
+
+#### Terminal del conducto.
+Extremo superior de un conducto de evacuación de gases producto de la combustión que sobresale de una terraza o cubierta de techumbre.
+
+#### Tren de válvula o de gas.
+Es una combinación de válvulas, reguladores, uniones y otros dispositivos de seguridad, los que forman un sistema integral para controlar el flujo y presión del gas utilizado, para la operación segura de un quemador, incluyendo las funciones del sistema de corte de abastecimiento de gas.
+
+#### Tiro.
+Flujo de gases o aire a través de un recinto, conducto, chimenea, equipos o artefactos, provocado por diferencias de presión y/o temperatura, existiendo, entre otras, la siguiente clasificación:
+- Efectivo. Diferencia de presión en la misma cota entre el exterior e interior de un conducto de evacuación de gases producto de la combustión.
+- Estático. Diferencia de presión que se genera en condiciones estáticas producto de la diferencia de masa volumétrica (densidad) entre dos columnas, una de aire externo y otra de gases producto de la combustión, con la misma altura.
+- Forzado. Tiro causado por acción mecánica sobre los gases producto de la combustión, normalmente un ventilador o impulsor ubicado bajo la cámara de combustión, que impulsa el aire para la combustión y barre dichos gases, produciendo una sobre presión o presión positiva en la cámara de combustión.
+- Inducido. Tiro generado por la acción mecánica de un ventilador o extractor ubicado sobre la cámara de combustión, que succiona los gases producto de la combustión, produciendo una depresión o presión negativa en la cámara de combustión.
+- Natural. Diferencia de presión en un conducto de evacuación de gases producto de la combustión producida por la diferencia de masa volumétrica (densidad) existente entre tales gases (calientes) y el aire atmosférico externo, provocándose un empuje ascendente de los gases de combustión, de menor densidad, con la consiguiente depresión o presión negativa en la cámara de combustión, sin la intervención de medio mecánico de aspiración alguno.
+
+#### Unión.
+Conexión entre dos tramos de tubería o entre un tramo de tubería y un accesorio, o entre dos o más tramos de tuberías, o entre un accesorio conector y un artefacto a gas.
+
+#### Válvula.
+Mecanismo o dispositivo, que por el accionamiento, manual o automático, de una parte movible se puede regular, establecer o interrumpir el paso de gas a cualquier sección de un sistema de tuberías o hacia un artefacto a gas. Comúnmente se le denomina llave.
+- De acometida. Válvula de corte instalada en toda instalación de gas, próxima o en el mismo muro o límite de la propiedad a la que sirve tal instalación, con acceso fácil y expedito.
+- De corte. Válvula de operación manual que se intercala en una tubería para establecer o interrumpir, en forma rápida y segura, el paso de gas. También se denomina como llave de corte rápido, cuando al accionarla ¼ de vuelta, cumple tales condiciones.
+- De medidor. Válvula de corte ubicada sobre un empalme e instalada inmediatamente antes del medidor o del regulador de servicio, según corresponda, utilizada para establecer o interrumpir el suministro de gas a toda la Instalación Interior de Gas. También se denomina válvula de servicio.
+- De paso. Válvula de corte instalada próxima a la conexión de un artefacto a gas, utilizada para establecer o interrumpir el paso de gas a éste. Comúnmente se le denomina llave de paso.
+- De seguridad. Mecanismo o dispositivo que tiene por objeto interrumpir el flujo de gas a cualquier sección de un sistema de tuberías o hacia un artefacto a gas, cuando se exceden determinadas condiciones de operación predeterminadas, entre otras válvulas, las siguientes:
+  - De alivio. Mecanismo o dispositivo que conecta la instalación de gas con el exterior y que permite reducir la presión de la instalación por evacuación directa del gas al exterior, cuando dicha presión exceda de un valor predeterminado.
+  - Mínima presión. Mecanismo o dispositivo que tiene por objeto interrumpir el abastecimiento de gas aguas abajo del punto en que se halla instalada cuando la presión del gas llega a ser inferior a un valor predeterminado.
+  - Máxima presión o sobre presión. Mecanismo o dispositivo que tiene por objeto interrumpir el flujo de gas aguas abajo del punto en que se halla instalada cuando la presión del gas exceda de un valor predeterminado.
+
+#### Ventilación.
+Abertura o espacio diseñada para permitir el paso del aire en forma permanente, desde el exterior al recinto en que se encuentra instalado un artefacto a gas y desde el interior del recinto al exterior, favoreciendo su renovación de aire. Las ventilaciones podrán estar protegidas por celosías, persianas o rejillas, siempre que no reduzcan la superficie mínima de ventilación establecida para cada caso.
+- Directa. Abertura con una superficie igual o mayor a la requerida para el recinto al cual pertenece, que permite su comunicación permanente y directa con el exterior o con un patio de ventilación, para lo cual podrán emplearse conductos, individuales o colectivos.
+- Indirecta. Abertura que comunica un recinto con otro que no sea dormitorio, cuarto de baño o de ducha y que dispone de ventilación directa al exterior.
+
+
+
+Volumen de un artefacto a gas.
+Es aquel determinado a partir de sus dimensiones exteriores, incluyendo las cámaras de los ventiladores y quemadores, cuando existan.
+10.135 Volumen de un recinto (bruto, nominal).
+Es aquel delimitado por las paredes de un recinto, sin considerar aquel correspondiente al mobiliario que contenga, el cual se calcula por el producto del área limitada por sus paredes y la altura; se expresa en metros cúbicos (m3).
+10.136 Zona vertical de seguridad.
+Vía vertical de evacuación protegida de los efectos del fuego que, desde cualquier nivel hasta el de salida, permite a los usuarios evacuar el edificio sin ser afectados por el fuego, humo o gases.
+
+
+
+#### CAPITULO IV - OBLIGACIONES Y RESPONSABILIDADES ADMINISTRATIVAS DE LOS QUE PARTICIPAN EN LAS INSTALACIONES INTERIORES DE GAS. Pagina 38
  
-  
-  
-  
-  
+#### TITULO VI. PROPIETARIOS, ADMINISTRADORES, COMITÉ DE ADMINISTRACIÓN Y CONSUMIDORES DE LAS INSTALACIONES INTERIORES DE GAS. Pagina 42
+
+#### CAPITULO V - DE LOS PROYECTOS DE INSTALACIONES INTERIORES DE GAS. Pagina 43
+
+Memoria de calculo
+Planos de obra
+Especificaciones tecnicas de materiales
+Artefactos y productos de gas, asociados al proyecto. 
+Recomendaciones del fabricante de los artefactos a gas
+
+Incluir un punto de prueba de 12,52 (mm) hilo interior (½“ HI) -denominación comercial- aguas abajo del regulador de servicio, medidor o conjunto medidor, cuya ubicación podrá corresponder a un punto de prueba de éstos, según corresponda, para la ejecución de los ensayos y controles requeridos en la certificación o inspección periódica de instalaciones de gas.
+
+#### Plano de la Instalación de Gas.  Pagina 45
+Toda ejecución de una instalación de gas, se deberá efectuar de acuerdo a un plano confeccionado por un Instalador de Gas de acuerdo a lo establecido en el presente reglamento, el cual deberá permanecer, en la instalación en construcción, durante todo el tiempo que ésta demore, a disposición de la Superintendencia.
+
+#### Generalidades. Pagina 45
+El plano deberá registrar, al menos, la siguiente información de la instalación de gas
+- Ubicación propuesta de la tubería y de los artefactos a gas.
+- Dimensiones de los distintos ramales o derivaciones.
+- Ubicación del punto de suministro, abastecimiento o entrega.
+- Volumen del recinto con artefacto a gas.
+En cada recinto donde se instale un artefacto a gas se deberá indicar su Volumen Real, identificado con el símbolo “VR” y el Volumen Mínimo requerido para ello con el símbolo “VM”.
+
+
+
+![simbolos convencionales](https://user-images.githubusercontent.com/17385297/53034322-b1b5fc80-3451-11e9-9396-a1d1bd1f2fce.PNG)
+
+![simbolos convencionales 2](https://user-images.githubusercontent.com/17385297/53034328-b4b0ed00-3451-11e9-9bab-3eea4c0c5129.PNG)
+
+![simbolos convencionales 3](https://user-images.githubusercontent.com/17385297/53034333-b8447400-3451-11e9-8df6-897678ef8809.PNG)
+
+![simbolos convencionales 4](https://user-images.githubusercontent.com/17385297/53034343-ba0e3780-3451-11e9-8f49-d0697ee3b1ca.PNG)
+
+![simbolos convencionales 5](https://user-images.githubusercontent.com/17385297/53034353-bf6b8200-3451-11e9-8d3b-e74623d76350.PNG)
+
+![simbolos convencionales 6](https://user-images.githubusercontent.com/17385297/53034362-c3979f80-3451-11e9-8e95-da28f8d96dc9.PNG)
+
+![simbolos convencionales 7](https://user-images.githubusercontent.com/17385297/53034385-cd210780-3451-11e9-9d82-ba10760fa0ed.PNG)
+
+![simbolos convencionales 8](https://user-images.githubusercontent.com/17385297/53034389-d01bf800-3451-11e9-90d5-642ab568bc63.PNG)
+
+
