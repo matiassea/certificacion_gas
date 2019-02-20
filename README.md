@@ -1,3 +1,9 @@
+### Memoria de calculo
+
+https://es.slideshare.net/AngelDeJess3/memoria-de-calculo-de-gas
+https://es.slideshare.net/AngelDeJess3/memoria-de-calculo-de-gas
+
+
 # certificacion_gas
 Certificaciones de gases
 
