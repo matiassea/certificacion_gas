@@ -367,3 +367,164 @@ La potencia nominal de cada artefacto, en (kW), total parcial y total. Cabe señ
 
 
 
+#### CAPITULO VI - DE LA EJECUCIÓN O CONSTRUCCIÓN DE INSTALACIONES INTERIORES DE GAS. [Pagina 62]
+
+###### Generalidades.
+Toda Instalación Interior de Gas deberá considerar como parte de ésta una Te de prueba para la ejecución de los ensayos y controles requeridos en la certificación o inspección periódica de instalaciones de gas, según corresponda, la que se deberá disponer, de ser técnica y operacionalmente factible, inmediatamente aguas abajo, del medidor, conjunto medidor o regulador de servicio, según corresponda, o en su defecto lo más próximo a éstos, siempre aguas abajo. La Te de prueba deberá ser de 12,52 (mm) hilo interior (½“ HI) y tapón HE, denominación comercial.
+
+###### Tuberías, Uniones y Accesorios.
+1. Generalidades.
+  ###### Las tuberías y accesorios que forman parte de las instalaciones interiores de gas, medidores de gas, conexiones de equipos de GLP y accesorios necesarios para su suministro, deberán ser de materiales compatibles con el gas distribuido y que no sufran deterioros por el medio exterior con el que entren en contacto, o en su defecto, deberán estar protegidos con un recubrimiento eficaz, según se establece en el presente capítulo.
+  ###### Queda prohibida la utilización de productos de gas o materiales usados en la ejecución o construcción de otra instalación de gas, los que, bajo ninguna circunstancia, deberán ser utilizados.
+
+2. Tuberías Metálicas, Uniones y Accesorios.
+  ###### No se deberán utilizar tuberías de hierro fundido ni de plomo.
+  ###### Dependiendo de la presión de la instalación de gas, se deberán utilizar los tipos de tuberías que a continuación se describen:
+    - Presiones manométricas iniciales de hasta 140 (kPa) (1,4 bar).
+      Al menos, tubos de cobre tipo L, fabricados según la Norma Oficial Chilena NCh951/2.Of2005 - Cobre y aleaciones de cobre - Tubos de       cobre sin costura para gas - Requisitos; en adelante e indistintamente, “NCh951/2.Of1977” o disposición que la reemplace.
+    - Presiones manométricas superiores a 140 (kPa).
+        Tubos de cobre tipo K y sin costura.
+    - Usos generales en baja y media presión.
+      - Tubos de acero clase (Schedule) 40 o superior, fabricados según las normas nacionales existentes, y a falta de éstas, las normas o especificaciones técnicas extranjeras, sobre la materia, reconocidas internacionalmente, entre otras, A53/A53M-02 “Standard Specification for Pipe, Steel, Black and Hotdiped, Zinc-coated Welded and Seamless”; siempre que en los cambios de dirección del tendido no sean sometidos a doblado, para lo cual deberán utilizarse codos.
+      - Tubos de acero grados A o B, clase (Schedule) 40 o superior, fabricados según las normas nacionales existentes, y a falta de éstas, las normas o especificaciones técnicas extranjeras, sobre la materia, reconocidas internacionalmente, entre otras, la norma ASTM A-53/53M-02, ya citada, para usos especiales, los que en su tendido podrán ser doblados.
+  ###### Se prohíbe la utilización de tubos de cobre o bronce con gases que presenten una concentración promedio mayor que siete (7) miligramos de ácido sulfhídrico (H2S) por metro cúbico estándar (m3S), información que deberá ser acreditada por la Empresa Distribuidora de Gas.
+  ###### Tubería Flexible. Sólo se permite el uso de tubería metálica flexible sin costura.
+  ###### Roscas para Tubos Metálicos Rígidos.
+    - Especificaciones. Las roscas para tubos rígidos y accesorios metálicos deberá ser de forma cónica para tubos, la cual deberá cumplir con las normas nacionales existentes, y a falta de éstas, las normas o especificaciones técnicas extranjeras, sobre la materia, reconocidas internacionalmente, entre otras, la norma ASME B1.20.1 “Hilos para tubería. Propósito General, Pulgada”; o disposición que la reemplace.
+    - Uso prohibido. Se prohíbe la utilización de tubos rígidos con roscas arrancadas, astilladas, corroídas o dañadas, como asimismo, el tramo del tubo con soldadura abierta, ya sea producto de la operación de corte o roscado u otra instancia.
+    - Número de Filetes. El roscado de los tubos rígidos deberá cumplir con lo establecido en la Tabla IV. Especificaciones para el Roscado de Tubería de Acero.
+![Cantidad de Rosca](https://user-images.githubusercontent.com/17385297/54165438-72227500-443f-11e9-9b39-1e7eb5e8d05a.PNG)
+    - Compuestos para Rosca. Estos compuestos para juntas o selladores, deberán ser resistentes a la acción del GLP o a todo otro constituyente químico de los gases a ser conducidos a través de la tubería.
+  
+  
+  ###### Uniones para Tuberías Metálicas.
+El tipo de unión utilizado para las tuberías metálicas deberá ser el adecuado para las condiciones de presión y temperatura de operación, en cuya selección se deberá tener en cuenta la hermeticidad de la junta y la resistencia mecánica, bajo las condiciones de servicio.
+La unión deberá resistir la fuerza máxima extrema producto de la presión interna y de todas las fuerzas adicionales ocasionadas por la expansión o contracción producida por cambios de temperatura, vibración, fatiga o al peso de los tubos y sus contenidos.
+  1. Tubos rígidos.
+Las uniones de este tipo de tubos deberán ser del tipo roscadas, bridadas o soldadas. Las uniones soldadas de los tubos de cobre deberán ser realizadas con aleaciones para soldadura fuerte, cuya composición no deberá contener más de 0,05 (%) de fósforo.
+La soldadura deberá ser realizada con equipos apropiados, entre otros, oxipropano, oxiacetileno u otro similar, que permitan alcanzar la temperatura adecuada para obtener una soldadura fuerte y de la calidad requerida y por soldadores calificados por organismos competentes que para tal efecto establezca la Superintendencia.
+  2. Tubería Flexible.
+Las uniones de estas tuberías deberán ser realizadas con accesorios certificados para soldar tubería de gas.
+La soldadura deberá cumplir con lo señalado en el inciso final del literal a) precedente.
+  3. Juntas abocardadas.
+Estas juntas deberán ser utilizadas, sólo, en Sistemas de Tuberías construidos con tubos no ferrosos, en los que sea adecuado este tipo de junta, para sus condiciones de operación, en los cuales se hayan tomado las precauciones de diseño para evitar la separación de tales juntas.
+  4. Accesorios (incluidos, válvulas, tamices, filtros).
+    - No se deberán utilizar accesorios metálicos roscados con un diámetro nominal mayores que 4”.
+    - Los accesorios utilizados con tubos de acero deberán ser de acero, latón, bronce, fundición maleable o dúctil.
+    - Los accesorios utilizados para unir tubos de cobre deberán ser de cobre, latón o bronce, con un contenido mínimo de 80 (%) de cobre.
+    - Los accesorios de aleación de aluminio no deberán ser utilizados en uniones metal-metal.
+    - Los accesorios de aleación de aluminio-zinc no deberán ser utilizados en sistemas que contengan mezclas inflamables gas-aire.
+    
+  5. Bridas.
+      Los regímenes de presión-temperatura deberán exceder o igualar a aquellos requeridos para la aplicación.
+    - Caras.
+      Para efectos de este reglamento se permite la utilización de caras normalizadas.
+      - Sólo se permite la utilización de bridas seccionadas (“lap joint”) dispuestas sobre el nivel del suelo o en ubicaciones expuestas,  accesibles para su inspección.
+      - Se podrán aceptar bridas milimétricas de requisitos equivalentes al literal i. precedente.
+    - Empaquetaduras.
+El material de las empaquetaduras para bridas deberá ser capaz de soportar la temperatura y presión de diseño del sistema de tuberías y los constituyentes químicos del gas que está siendo distribuido, sin presentar cambios en sus propiedades físico-químicas.
+Para la elección del material se deberán tener en cuenta los efectos de la exposición de la junta al fuego.
+    - Los materiales aceptables incluyen:
+      - Metal (plano o corrugado);
+      - En anillos "O" de aluminio ("O" ring) y empaquetadura de metal bobinado en espiral.
+    - Se deberá reemplazar toda empaquetadura de aquella unión bridada que haya sido abierta.
+    - En las bridas de bronce y de fierro fundido se deberá utilizar empaquetadura de cara plana.
+
+  6. Unión con junta plana o racor.
+Esta se deberá utilizar sólo en baja presión y en redes interiores de uso residencial, la cual, consta de dos piezas: bayoneta con asiento plano, en el cual se intercala una junta de elastómero y una tuerca hexagonal, unión que se representa en la Figura 12. Unión de junta plana o racor. Al roscar la tuerca, el cuerpo 2 es empujado contra el cuerpo 1, efectuándose la unión a través de la junta de elastómero.
+
+![union con junta plana](https://user-images.githubusercontent.com/17385297/54165872-56b86980-4441-11e9-95a3-b02619928094.PNG)
+
+
+  7. Unión metal-metal.
+Esta unión es parecida a la anterior -junta plana- diferenciándose en el sistema de asiento, ya que carece de junta de elastómero. Su uso queda limitado a las tuberías de baja presión. Estas uniones podrán ser de tres tipos: de esfera-cono, de anillos cortantes y de cono-cono.
+    - Unión esfera-cono.
+Esta consta de dos piezas: la junta cónica y la tuerca hexagonal. La estanquidad se logra por la compresión que se ejerce entre las paredes esféricas del cuerpo 1 y la cónica del cuerpo 2, según se representa en la Figura 13. Unión de esfera-cono. El material empleado en la fabricación de estas uniones podrá ser cobre, latón o acero.
+
+![union esfera cono](https://user-images.githubusercontent.com/17385297/54166237-11953700-4443-11e9-893a-583f0898a3e9.PNG)
+
+    - Unión por anillos cortantes.
+Esta es una unión metal-metal, conocida comúnmente con el nombre “ermeto”, la cual consta de un anillo metálico 1, que al ser comprimido por la tuerca 2, avanza sobre el cuerpo 3 formando una acanaladura que se incrusta en la pared, asegurando de esta forma la estanquidad según se representa en la Figura 14. Unión por anillos cortantes.
+
+![union por anillos cortantes](https://user-images.githubusercontent.com/17385297/54166272-44d7c600-4443-11e9-829b-f537e6730f83.PNG)
+
+En el punto de roce de la tuerca con el anillo se deberá agregar una gota de aceite, para facilitar la compresión posterior. Una vez utilizada esta unión, queda inservible para ser utilizada de nuevo, debido a la deformación permanente que ha sufrido el anillo metálico.
+
+    - Unión cono-cono.
+Se trata de una unión metal-metal, donde tanto el cuerpo 1 como el cuerpo 2 son del tipo cono.
+
+  ###### Protección de las tuberías metálicas.[Pagina 68]
+
+  1. Las tuberías o accesorios metálicos que estén en contacto con materiales o en presencia de ambientes corrosivos, deberán ser recubiertas con un material resistente a la corrosión.
+  2. Los recubrimientos o cubiertas internas o externas de las tuberías o componentes no deberán aportar resistencia adicional.
+
+  ###### Terminación de las tuberías metálicas.
+  1. La tubería y sus accesorios metálicos deberán estar limpios y libres de rebabas de corte, de defectos en la estructura o rosca, los que deberán ser completamente escobillados para eliminar las escamas y virutas.
+  2. Todo tubo, cañería o accesorio(s) defectuoso(s) detectado en un Sistema de Tuberías deberá(n) ser reemplazado(s) por otro similar nuevo.
+  3. Se prohíbe la reparación de defectos en la tubería o accesorios.
+  
+  ###### Dimensiones de las tuberías.
+  1. Consideraciones Generales.
+Los sistemas de tuberías de gas deberán estar instalados y ser de dimensiones que permitan proveer un abastecimiento de gas suficiente para alcanzar la máxima demanda, sin exceder las pérdidas máximas de presión establecidas entre el punto de abastecimiento y los artefactos que utilizan gas.
+Previo a la conexión de equipo adicional al Sistema de Tuberías de Gas existente, se deberá verificar que dicho sistema tiene la adecuada capacidad para ello. Si ésta es inadecuada, se deberá aumentar la capacidad del sistema de acuerdo a los nuevos requerimientos o ser ampliado con la(s) tubería(s) de gas adicional(es) necesarias.
+
+  2. Máxima Demanda de Gas.
+  - El volumen de gas a ser abastecido, en metros cúbicos estándar por hora (m3S/h), se deberá determinar directamente a partir del consumo térmico nominal indicado por los fabricantes de los artefactos y equipos de gas a ser servidos. Cuando no se indique la potencia de éstos y para estimar el volumen de gas requerido, se deberá contactar al proveedor de gas, al fabricante del equipo o a un laboratorio calificado, por la Autoridad Competente. Una determinación aproximada se podrá obtener desde la Tabla V. Potencia Aproximada de los Artefactos Domésticos para Gas, de Uso Común.
+Para tal efecto, los metros cúbicos estándar de gas (m3S) requeridos se obtienen dividiendo el consumo expresado en (Mcal/h) por el valor del poder calorífico en (Mcal/m3) del gas abastecido. El poder calorífico del gas se encuentra en la Tabla VI. Propiedades Físicas de los Gases y Condiciones de Referencia.
+
+
+![Potencia Aproximada de los Artefactos Domésticos para Gas, de Uso Común](https://user-images.githubusercontent.com/17385297/54167303-da755480-4447-11e9-9a50-22947ce05f13.PNG)
+
+  - Como base, para dimensionar la tubería de una instalación interior de gas, se deberá considerar que todos los artefactos o equipos están operando a su máxima capacidad en forma simultánea, es decir, factor de simultaneidad = 1,0.
+  - En las instalaciones industriales y comerciales, y previo estudio justificado ante la Superintendencia, se podrán adoptar valores del factor de simultaneidad inferior a uno (1).
+  - Para las matrices interiores que abastecen más de una vivienda, se podrán emplear los factores de simultaneidad indicados en la Tabla VII. Factores de Simultaneidad de acuerdo con la Cantidad de Instalaciones Interiores y Artefactos Conectados.
+  
+  2. Dimensiones.
+Para dimensionar la tubería de una instalación interior de gas, se deberán considerar los siguientes factores:
+  - La caída de presión permisible desde el punto de abastecimiento hasta el equipo o al regulador de segunda etapa, se establece en la Tabla VIII. Pérdida Máxima de Presión Según el Tipo de Gas.
+  - Longitud de la tubería y cantidad de accesorios.
+  - Propiedades físicas del gas.
+  - Factor de simultaneidad.
+  
+![Propiedades Físicas de los Gases y Condiciones de Referencia](https://user-images.githubusercontent.com/17385297/54167507-bebe7e00-4448-11e9-8ae8-ab8367f50c18.PNG)
+  
+  3. Caída de Presión Permitida. [Pagina 72]
+La pérdida de presión de diseño en cualquier sistema de tuberías, bajo las condiciones de máximo flujo probable, desde el punto de abastecimiento hasta la conexión de entrada del artefacto que utiliza gas, deberá ser tal que la presión de alimentación al artefacto sea mayor que la mínima presión requerida para su adecuada operación. En todo caso, la caída de presión no deberá exceder los límites indicados en la ya citada Tabla VIII.
+Para las tuberías de gas que operen a presiones superiores a la de abastecimiento directo a los artefactos o equipos, cualquiera sea el tipo de gas, la velocidad de flujo deberá ser inferior a 40 (m/s).
+
+Co = Cocina, Ca = Calefon y E = Estufa
+
+![Factores de Simultaneidad  De acuerdo con la Cantidad de Instalaciones Interiores y Artefactos Conectados](https://user-images.githubusercontent.com/17385297/54167468-8dde4900-4448-11e9-8a60-0dd238728476.PNG)
+
+
+  4. Cálculo de las capacidades de los tubos.
+Las capacidades de los tubos se pueden calcular utilizando las siguientes fórmulas (f.1) y (f.2), que se detallan a continuación:
+
+- Para presiones inferiores a 10 (kPa):
+
+![Formula de calculo](https://user-images.githubusercontent.com/17385297/54167561-1361f900-4449-11e9-8baf-87184344ea0b.PNG)
+
+![Perdida de carga](https://user-images.githubusercontent.com/17385297/54167554-0e04ae80-4449-11e9-87e2-6c650cbb548b.PNG)
+
+![Factor de Fricción K](https://user-images.githubusercontent.com/17385297/54167593-3ee4e380-4449-11e9-9d6f-c5b93d6ea2b3.PNG)
+
+  - Cuando los artefactos a gas estén ubicados a una altura superior a diez (10) metros respecto del punto de abastecimiento, se deberá considerar la variación de la presión con la altura en la tubería. Para este efecto se aceptará la aplicación de la siguiente fórmula:
+  
+![efecto altura](https://user-images.githubusercontent.com/17385297/54167699-c2063980-4449-11e9-8c92-2085847daccb.PNG)
+    
+    Para el GLP se puede desestimar la pérdida de presión por altura (?ph), cuando ésta se compense aumentando la presión del regulador de gas; hasta un valor máximo de hasta 3,24 (kPa).
+
+  - Para presiones iguales o superiores a 10 kPa.
+  
+![Para presiones iguales o superiores a 10 kPa](https://user-images.githubusercontent.com/17385297/54167673-a438d480-4449-11e9-848f-00f0c6b33a2d.PNG)
+
+![Para presiones iguales o superiores a 10 kPa 2](https://user-images.githubusercontent.com/17385297/54167745-efeb7e00-4449-11e9-917d-3955b385ccae.PNG)
+
+  5. De acuerdo con el material empleado en la fabricación de los tubos, para los efectos de cálculo se deberá considerar lo siguiente:
+  - Para los tubos de cobre, el diámetro interior normalizado de acuerdo a la “NCh951/2.Of1977” o disposición que la reemplace; y
+  - Para los tubos de acero, se deberán considerar los valores de D5 prescritos en la Tabla X. D5 para tubos de acero.
+
+En ambos casos, el diámetro nominal adoptado será igual o inmediatamente superior al resultante del cálculo, para lo cual se entrega la Tabla XI. Dimensiones de Tubos Comerciales.
+
+[Pagina 76]
+    
