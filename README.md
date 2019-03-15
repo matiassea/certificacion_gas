@@ -703,10 +703,42 @@ Los cambios de dirección en el tendido de la tubería de gas se deberán realiz
   - Cuando el fabricante de tubos lo especifique, sólo se deberá efectuar el curvado de tubos con los equipos o procedimientos indicados por éste.
   - El curvado de los tubos plásticos deberá estar libre de daños y su diámetro interno no se deberá reducir en forma efectiva.
   - En las curvas de los tubos no se deberán ubicar uniones.
-48.2.4 El radio interno de las curvas deberá ser mayor que 25 veces el diámetro interno del tubo.
-48.3 Curvas a Ingletes.
-Se prohíbe el uso de este tipo de curvas, a 45º.
-48.4 Codos.
+  - El radio interno de las curvas deberá ser mayor que 25 veces el diámetro interno del tubo.
+  3. Curvas a Ingletes.
+  - Se prohíbe el uso de este tipo de curvas, a 45º.
+  4. Codos.
 Para los tubos de diámetro nominal de 2” y superiores, se permite el uso de codos, construidos en fábrica, para conexiones soldadas o de segmentos transversales cortados de los mismos, siempre que la longitud del arco, medida a lo largo del radio de la curvatura menor, sea superior a 2,5 (cm).
    
-   
+
+
+
+###### Requisitos Específicos. [Pagina 113]
+Los recintos o locales en los cuales se instalen artefactos a gas deberán cumplir con determinados requerimientos, entre otros, de volumen y ventilación, según se establece a continuación.
+  ###### Volumen.
+El volumen de un recinto se deberá determinar a partir de sus dimensiones interiores y cuando la altura real del cielorraso sea mayor que 2,4 (m), se deberá calcular su volumen en base a una altura de 2,4 (m).
+  1. Recintos con artefactos a gas tipo A.
+Los recintos destinados a usos domésticos, colectivos o comerciales, en los cuales se instalen artefactos tipo A, con excepción de estufas, deberán tener un volumen bruto mínimo, establecido en la Tabla XX. Volumen de recintos en función de la potencia del artefacto a gas tipo A, excepto estufas.
+Los recintos en los cuales se instalen estufas tipo A deberán tener un volumen mínimo bruto al menos igual al resultado de la fórmula (f.8), con un valor mínimo de 15 (m3).
+
+
+![Potencia-volumen](https://user-images.githubusercontent.com/17385297/54419710-e92d6700-46e6-11e9-8e80-09300ccd9c2e.PNG)
+
+![Calculo potencia-volumen](https://user-images.githubusercontent.com/17385297/54419721-edf21b00-46e6-11e9-96c9-7d71a38ee4e1.PNG)
+
+
+  ###### Ventilación [Pagina 114]
+
+![Aberturas - potencia](https://user-images.githubusercontent.com/17385297/54420226-2e05cd80-46e8-11e9-9e48-01fa8fe268a9.PNG)
+
+
+![Ventilacion de recintos](https://user-images.githubusercontent.com/17385297/54420477-d9168700-46e8-11e9-9e57-308b5c74ab22.PNG)
+
+
+###### Conexión de los Artefactos a la Red Interior de Gas. [Pagina 120]
+
+
+
+
+
+
+
