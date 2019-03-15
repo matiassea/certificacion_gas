@@ -526,5 +526,187 @@ Las capacidades de los tubos se pueden calcular utilizando las siguientes fórmu
 
 En ambos casos, el diámetro nominal adoptado será igual o inmediatamente superior al resultante del cálculo, para lo cual se entrega la Tabla XI. Dimensiones de Tubos Comerciales.
 
-[Pagina 76]
+  ###### Tuberías Plásticas, Uniones y Accesorios. [Pagina 76]
+  
+  1. Se permite el uso de tuberías, tubos y accesorios plásticos fuera de los edificios, siempre que estén enterradas.
+    - Los tubos de subida sin ánodo (“risers”) deberán cumplir los siguientes requisitos:
+      - Los montados en fábrica deberán ser recomendados por el fabricante para el gas a utilizar, los que deberán ser certificados según se establece en el artículo 9º del presente reglamento, particularmente, en que no presentan fugas, según procedimiento escrito.
+
+![D5 para tubos de acero](https://user-images.githubusercontent.com/17385297/54389214-5822a580-467e-11e9-8810-d3f7482327c7.PNG)
+
+![Dimensiones de Tubos Comerciales](https://user-images.githubusercontent.com/17385297/54389218-5a84ff80-467e-11e9-8a17-573f66e35d62.PNG)
+
+
+      - Los ensamblados in situ, que incorporen adaptadores de cabezales de servicio, al igual que estos últimos, deberán ser empleados de acuerdo a las recomendaciones del fabricante según el gas a utilizar y su diseño deberá estar certificado de acuerdo a los requisitos dispuestos en las normas complementarias correspondientes.
     
+    - El uso de tuberías y accesorios plásticos en sistemas de tuberías de GLP no diluido (mezcla propano-aire), deberá cumplir los requisitos establecidos en las normas complementarias correspondientes.
+    
+    
+   ###### Uniones
+Las tuberías y accesorios plásticos se deberán unir de acuerdo con las instrucciones del fabricante, uniones que deberán cumplir, al menos, los siguientes requisitos:
+  - Ser diseñadas e instaladas de forma tal que su resistencia a la tracción longitudinal sea, a lo menos, igual a la resistencia a la tracción del material de la tubería plástica.
+  - Las uniones por fusión mediante calor se deberán realizar según los métodos recomendados por el fabricante del tubo y por profesionales calificados por organismos competentes que para tal efecto establezca la Superintendencia, de acuerdo a procedimientos calificados establecidos, probados a través de ensayos para producir uniones herméticas al gas, al menos, tan fuertes como los tubos que se están uniendo. Los accesorios para la fusión por calor deberán estar marcados según la norma respectiva.
+  - El material de las empaquetaduras de las uniones mecánicas tipo compresión deberán ser compatibles con la tubería plástica y con el gas distribuido por el sistema. El accesorio se deberá utilizar conjuntamente con un refuerzo interno tubular rígido, el que deberá estar al ras con el extremo del tubo; extendiéndose como mínimo hasta su extremo exterior y hasta el extremo externo del accesorio de compresión, cuando éste se haya instalado. El refuerzo deberá estar libre de bordes filosos o rugosos y sin ajuste forzado en el plástico. No se deberán usar refuerzos tubulares partidos.
+  
+  
+###### Instalación de las Tuberías de Gas. [Pagina 79]
+
+   ###### Generalidades.
+Se prohíbe la instalación de tuberías enterradas destinadas a Gas Licuado de Petróleo de media o alta presión que pasen o estén a menos de dos (2) metros de cámaras de alcantarillado, pozos o construcciones bajo el nivel terreno. En estos casos se deberá preferir el tendido sobre el nivel del terreno y a distancias seguras, según se establece a continuación.
+
+
+   ###### Tuberías Subterráneas. [Pagina 79]
+  1. Distancias de seguridad.
+  - Toda tubería de gas subterránea deberá ser instalada dejando suficiente espacio libre respecto de cualquier otra estructura subterránea, evitando el contacto entre ellas, para permitir su mantenimiento y protegerlas del eventual daño que pudiera ocasionársele por la proximidad a tal estructura.
+  - Las tuberías de plástico subterráneas deberán ser instaladas dejando suficiente espacio libre o aislándolas adecuadamente de cualquier fuente de calor para impedir que éste perjudique la aptitud de la misma para el servicio.
+  - Para cruces o paralelismo con tuberías eléctricas o de otros servicios, se deberán cumplir los requisitos establecidos en el D.S. 115/2004, del Ministerio de Economía, Fomento y Reconstrucción, aprobatorio de la “Norma Técnica NCH.ELEC4/2003, Instalaciones de Consumo en Baja Tensión y deroga en lo pertinente, el decreto número 91, de 1984”, en adelante e indistintamente, “NCh Elec. 4/2003”, o disposición que la reemplace, entre otros requisitos, los siguientes:
+    - Las tuberías de gas deberán quedar separadas, al menos, 50 (cm), en cualquier sentido del cruce con tuberías de otros servicios.
+    - En todo cruce protegido con una capa de concreto u hormigón de 20 (cm) de espesor, se podrá reducir la separación de la tubería de gas          a tal longitud.
+    - En los cruces se deberán proteger las tuberías de gas mediante una capa de mortero de un espesor mínimo de 10 (cm) sobre ésta y que se extienda 20 (cm), longitudinalmente, hacia ambos lados de tales tuberías.
+    - Entendiéndose por paralelismo el hecho que las tuberías de gas queden dentro del volumen de excavación de las tuberías de otros servicios, las tuberías de gas en toda la extensión del paralelismo, no se deberán instalar dentro del volumen definido por dos planos verticales paralelos, ubicados a una distancia de 20 (cm) a cada lado de las tuberías de otros servicios.
+  
+  2. Protección contra daños por acción mecánica.
+Las tuberías enterradas se deberán disponer al interior de una zanja, cuyos requerimientos mínimos se establecen a continuación:
+  - Fondo
+    El fondo de la zanja en que se deposite la tubería, deberá proporcionar un apoyo firme y uniforme, esencialmente continuo, debiendo estar nivelado, con una pendiente máxima de 5 (%), exento de piedras y elementos de cantos vivos, bordes cortantes o puntiagudos, acondicionado con una cama de arena de un espesor de al menos 5 (cm), según se muestra en la Figura 15. Esquema de Instalación de Tubería Enterrada.
+  - Relleno.
+    El material de relleno de la zanja deberá estar exento de piedras y elementos de cantos vivos, bordes cortantes o puntiagudos, que puedan dañar la tubería, el cual deberá tener un espesor de al menos 15 (cm) medidos desde su parte superior al nivel del terreno o pavimento, según se muestra en la Figura 15, ya citada.
+    El vaciado del relleno se deberá efectuar teniendo especial cuidado para evitar que la tubería flote, perdiendo con ello, el apoyo firme en el fondo de la zanja.
+    El material de relleno deberá ser bien compactado, el que se deberá efectuar con riego y en caso que se emplee hormigón, la compactación se deberá efectuar en capas, utilizando compactadores mecánicos.
+    
+  - Recubrimiento.
+    Previo al tapado de la zanja, se deberá realizar una prueba de hermeticidad a los tramos de las tuberías a enterrar, según se establece en el “Procedimiento de Certificación e Inspección de Instalaciones Interiores de Gas”, establecido por la Superintendencia.
+Los sistemas de tuberías de gas enterradas se deberán instalar con una cubierta de al menos 60 (cm) de espesor, con excepción de las redes de gas que atraviesen calles con circulación vehicular, que deberá ser de al menos 80 (cm), profundidad que deberá ser medida desde la parte superior de la tubería al nivel del terreno o pavimento, según se detalla en la Figura 15. Esquema de Instalación de Tubería Enterrada. No obstante lo anterior, frente a situaciones de baja probabilidad de daño externo a las tuberías, dicho espesor podrá ser reducido hasta 30 (cm), lo cual deberá ser fundadamente justificado ante la Superintendencia.
+Ante situaciones en las que no sea factible cumplir con dicho mínimo de 30 (cm) de cubierta, se deberán adoptar medidas adicionales de protección que otorguen un nivel equivalente de seguridad, entre otras, instalar la tubería dentro de un conducto o con una cubierta de protección adecuada, medidas que deberán estar sustentadas en un estudio técnico, basado en buenas prácticas de ingeniería o norma extranjera complementaria reconocida internacionalmente.
+Cuando el proyecto contemple la existencia de condiciones de inestabilidad del terreno que puedan provocar el hundimiento de las tuberías o los cimientos de las paredes, se deberán proporcionar los medios para evitar tensiones en las tuberías, entre otros, otorgando a las tuberías características de flexibilidad, por medio de su trazado, utilizando, donde sea necesario, curvas, bucles y uniones de tipo deslizante; pero al interior de los edificios no se deberán utilizar juntas de expansión de tipo deslizante. De emplearse juntas de expansión, distintas a la del tipo deslizante, se deberán instalar anclajes y fijaciones con la resistencia y rigidez necesaria y suficiente para evitar tensiones en los extremos de la tubería, producida por, entre otras causas posibles, la presión del gas abastecido. Conjuntamente con tales juntas se deberán utilizar guías de alineación de tuberías, de acuerdo a las instrucciones del fabricante de las juntas de expansión.
+En caso de instalarse tuberías bajo terreno natural, es decir, tierra sin pavimento, pasando a través de jardineras, arbustos, cultivos o áreas similares, deberán ser protegidas del daño físico, en su parte superior, por medio de ladrillos o mezcla de cemento pobre con una proporción mínima de 1:6 -una parte de cemento por seis de arena- según se detalla en la Figura 15. Esquema de Instalación de Tubería Enterrada. B) Bajo Terreno Natural. Los ladrillos deberán ser instalados de forma tal que su lado de mayor longitud sea perpendicular al plano o nivel del suelo, para así proporcionar la máxima superficie de protección a la tubería. No obstante lo anterior, se podrán usar otros métodos de protección, que aseguren un nivel equivalente de seguridad.
+
+  - Señalética.
+    Se deberá disponer, horizontalmente, una huincha plástica o de material similar, de color amarillo con la leyenda "GAS", entre la superficie del terreno y la tubería de gas, a una distancia de al menos 25 (cm), por sobre el borde superior de la tubería enterrada, según se muestra en la Figura 15, ya citada.
+
+  3. Protección contra la Corrosión.
+  - Las tuberías de gas que se encuentren en contacto con tierra u otros materiales que pudieran corroerlas, deberán ser protegidas de algún modo apropiado contra la corrosión, revistiéndola o envolviéndola en un material inerte apropiado para tales aplicaciones.
+  - No se deberán tender tuberías de gas en contacto con cenizas.
+  - Se deberán utilizar uniones roscadas o de manguito soldadas, con revestimiento, en tuberías que se encuentren en contacto con el suelo o cuando pueda tener lugar corrosión en las hendiduras internas o externas.
+  - Si las tuberías y accesorios de una instalación son de metales distintos, deberá evitarse el contacto directo entre ellos, mediante material aislante.
+  - Para efectos de protecciones contra efectos de salinidad, humedad u otros, se deberá considerar lo establecido en el Anexo A – “Recomendaciones sobre protecciones y calefacción”, de la “NCh1079.Of1977” o disposición que la reemplace.
+
+  4. Protección contra el congelamiento.
+  - Cuando el proyecto contemple que podrá tener lugar la formación de hidratos o hielo, las tuberías deberán ser protegidas contra el congelamiento.
+
+  5. Tuberías subterráneas que atraviesan paredes de los cimientos.
+Las tuberías subterráneas instaladas bajo el nivel del piso, que atraviesen las paredes de los cimientos exteriores o de algún sótano de un edificio, se deberán encamisar en un tubo de protección o vaina. El espacio anular entre la tubería de gas y la camisa o vaina deberá estar sellado en la pared del cimiento o del sótano, con un material adecuado para tal aplicación, que impida la entrada de gas o agua, así como su corrosión.
+  
+  6. Tuberías subterráneas bajo Edificios.
+  - Sólo en forma excepcional y por causas justificadas se podrán instalar tuberías subterráneas bajo edificios, deberán serlo encamisadas en un conducto diseñado para soportar las cargas superpuestas, el cual se deberá extender hasta una zona de uso habitual y accesible del edificio y, en el punto en que el conducto termina en el edificio, se deberá sellar el espacio anular, comprendido entre el conducto y la tubería de gas, para impedir el ingreso de una eventual fuga de gas, así como su corrosión. Si el sello del extremo del tubo fuera del tipo que contuviera la presión total del tubo, el conducto deberá estar diseñado para la misma presión que el tubo. El conducto se deberá extender, al menos, 10 (cm) por fuera del edificio, contar con un venteo hacia el exterior por encima del nivel del piso y estar instalado de modo que evite el ingreso de agua e insectos.
+  
+  - Para instalar tuberías de GLP, en media y baja presión, dispuestas sobre losas de subterráneos, sobre cota cero, se deberán cumplir los siguientes requisitos:
+    - La losa del subterráneo deberá ser, previamente, recubierta con un producto impermeable e insoluble al GLP.
+    - En ningún caso, la tubería podrá ser solidaria con la losa.
+    - La tubería deberá ser de cobre, flexible y no deberá tener uniones soldadas en todo el tendido de la tubería sobre la losa del subterráneo, excepto para aquellas tuberías rígidas de diámetro de al menos una pulgada (1”). Además las conexiones efectuadas al exterior y bajo tierra, entre esta tubería, metálica, y otra plástica, deberán realizarse únicamente con accesorios de transición, debidamente certificados para tal efecto.
+    - Se deberán evitar los cruces de juntas de dilatación, lo que de no ser posible, se deberán contemplar liras de expansión.
+    - Si la tubería queda expuesta a daño mecánico, se deberán contemplar alguna forma de protección apropiada contra éste.
+
+  7. Tubos de Plástico.
+  - Cuando se utilice un tubo de subida sin ánodo (“riser”) se permite que los tubos plásticos terminen sobre el nivel del piso. Asimismo, cuando el tubo plástico esté insertado en una tubería de material permitido para uso en edificios, se permite que el tubo plástico termine con un cabezal adaptador de pared sobre el nivel del piso en edificios, incluyendo los cimientos.
+
+  - Sólo se deberán utilizar accesorios de transición para las conexiones, exteriores y bajo tierra, entre tubería metálica y plástica, debidamente certificados para tal efecto.
+  
+  - Se deberá enterrar, conjuntamente con el tubo plástico, un alambre o cinta, eléctricamente continuos y resistentes a la corrosión, con una sección mínima de 2,08 (mm2) (AWG 14), que permita detectar la presencia del tubo. Para facilitar su localización, se deberá llevar uno de sus extremos sobre el piso en una pared del edificio o en un tubo de subida
+  
+  
+  8. Tuberías Externas en Superficie.
+Las tuberías instaladas en superficie deberán estar sujetas de forma segura y ubicadas en lugares en que se encuentren protegidas del daño físico o mecánico y, de ser necesario, contra el congelamiento. Además, cuando pasen a través de una pared externa, la tubería deberá estar protegida contra la corrosión, revistiéndola o envolviéndola en un material inerte apropiado para tales aplicaciones. Cuando la tubería se encuentre encerrada con una camisa de protección, el espacio anular ubicado entre la tubería de gas y la camisa deberá estar sellado en la pared, para impedir la entrada de agua, insectos o roedores.
+
+  9. Tuberías en Edificios.
+  - Generalidades.
+    La instalación de tuberías de gas al interior de edificios se deberá realizar a la vista o en conductos registrables, prohibiéndose las tuberías empotradas. Además se deberá considerar lo siguiente:
+    - La instalación de tuberías de gas no deberá provocar tensiones estructurales en los componentes del edificio que excedan los límites de diseño permitidos.
+    - Las tuberías de gas a la vista deberán ser aseguradas al muro o pared.
+    - Todo corte, ranura u otra intervención en elementos estructurales del edificio para realizar un conducto, deberá ser previamente autorizado, en un informe escrito, por un Ingeniero Calculista.
+
+  10. Conexiones.
+  - Se permite utilizar, en tuberías rígidas, accesorios del mismo material del tubo, entre otros, codos, Tés de prueba y coplas. Para tuberías de cobre las uniones deberán ser soldadas y realizadas de acuerdo con lo dispuesto en el presente reglamento.
+  - En la instalación de tuberías de gas que no estén a la vista no se deberán utilizar uniones roscadas ni coplas por compresión realizadas por combinación de accesorios.
+  
+  11. Uso de Tuberías Metálicas Flexibles en Muros o Divisiones.
+Las tuberías, al interior de edificios, que atraviesen paredes, pisos, muros o divisiones macizas, ocultas en el interior de paredes o divisiones huecas (paneles, tabiques), vertical u horizontalmente, deberán cumplir con lo siguiente:
+  - Las tuberías de gas, deberán ser continuas, flexibles, de una sola pieza o tramo único, o bien, estar unidas mediante soldadura fuerte, sin estar aseguradas en forma rígida y no deberán disponer de elementos de operación, accesorios de tuberías, roscas de rotación libre, coplas con rosca derecha e izquierda, bujes, uniones emboquilladas, coplas por compresión realizadas por combinación de accesorios, ni otro tipo diferente a los ya mencionadas.
+  - Sistema de Protección.
+La tubería de gas deberá estar mecánicamente protegida a lo largo de toda su longitud al interior de la pared total, para lo cual deberá estar alojada al interior de una funda, denominada vaina, o de un conducto, los cuales deberán cumplir los siguientes requisitos, según corresponda:
+    - Vainas.
+      - Deberán ser de acero con un espesor de, al menos, 1,5 (mm) u otro material de similar resistencia mecánica y compatible con el material de la tubería de gas.
+      - Deberá ser de una sola pieza o tramo único, continua y estanca en todo su recorrido, convenientemente fijada mediante elementos de sujeción.
+      - Dispuesta de manera que no esté en contacto con las estructuras metálicas del edificio, ni con otras tuberías, a manera de evitar la corrosión galvánica.
+      - Sus extremos deberán comunicar con el exterior de la pared o división hueca del recinto en que se encuentra instalada, extendiéndose al menos 10 (cm) más allá de las penetraciones ocultas de bridas, cortafuegos, montantes de pared, etc., o bien, con un extremo en tales condiciones y el otro sellado a la tubería, de manera tal que impida cualquiera eventual fuga de gas al exterior.
+
+    - Conductos.
+      - Deberán ser construidos en acero con un espesor de al menos 1,5 (mm) u otro material de resistencia mecánica similar y compatible con el material de la tubería.
+      - Deberá ser continuo y estanco en todo su recorrido, los que podrán disponer de registros para el mantenimiento de las tuberías, los cuales también deberán ser estancos y de fácil acceso.
+      - En caso de utilizar concreto, hormigón o material similar, se les deberá aplicar un producto sellante insoluble al gas licuado de petróleo o gas natural.
+      - Los conductos metálicos no deberán estar en contacto con las estructuras metálicas del edificio ni con otras tuberías a manera de evitar la corrosión galvánica.
+      - Sus extremos deberán comunicar con el exterior la pared o división hueca del recinto en que se encuentra instalado, extendiéndose al menos 10 (cm) más allá de las penetraciones ocultas de bridas, cortafuegos, montantes de pared, etc. o bien, con un extremo en tales condiciones y el otro sellado a la tubería, de manera tal que impida cualquiera eventual fuga de gas al exterior.
+
+
+  12. Ubicaciones prohibidas.
+    - Se prohíbe el tendido de tubería de GLP en recintos bajo la cota cero, tales como subterráneos, pisos zócalos, u otros, en los que, ante una eventual fuga de gas, se puedan formar mezclas explosivas gas-aire.
+    - No se deberán instalar tuberías de gas al interior de edificios, en conductos destinados a la circulación de aire; conductos de caída de ropa o basura; chimeneas o venteos de gas; conductos de ventilación, montaplatos, montacargas o huecos de ascensores; recintos que contengan transformadores eléctricos de potencia, tanques de combustibles líquidos o que no sean para uso exclusivo de éstas.
+    - Se prohíbe el tendido de tuberías de gas en cielos, pisos y suelos de recintos utilizados como dormitorios, como asimismo el tendido de tuberías para GLP por entretechos o sobre cielorraso.
+    - No se deberán tender tuberías al interior de muros, paredes o divisiones huecas -paneles, tabiques- que dan hacia el interior de dormitorios, que no cumplan con lo establecido en el numeral 46.5.3 precedente.
+
+  13. Reconexiones y modificaciones.
+    - De ser necesario insertar accesorios en tuberías que no vayan a la vista, éstos deberán conectarse mediante soldadura o bridas.
+    - Se prohíbe la modificación de tuberías que no vayan a la vista, de ser necesario, se deberá efectuar un nuevo tendido de tuberías.
+  
+  
+   ###### Ubicaciones de Tuberías. [Pagina 85]
+  1. La tubería de una instalación de gas sólo deberá recorrer espacios de la propiedad a la cual presta servicio o espacios comunes, en el caso de condominios y edificios colectivos sujetos al régimen de copropiedad inmobiliaria.
+  2. Se permite que las tuberías de gas, con excepción de aquellas para GLP, se instalen en los espacios accesibles ubicados sobre el cielorraso de recintos que no sean dormitorios, espacios en los cuales no deberán ubicarse válvulas.
+  3. En artefactos a gas que se acepte su ubicación en espacios accesibles sobre cielorrasos, se permite instalar las válvulas de corte, requeridas por el presente reglamento.
+  
+  
+   ###### Instalación de Tuberías en Conductos Verticales.
+  1. Reducción de la Presión.
+    - De ser necesario reducir la presión en las conexiones de los ramales, se deberá instalar el regulador de presión dentro del conducto o en una ubicación inmediatamente adyacente a la pared externa de éste, regulador que deberá tener accesibilidad grado 1 para efectuarles tareas de servicio y mantenimiento. El venteo de dicho regulador y la protección por exceso de presión (sobrepresión) ubicada aguas abajo, deberán cumplir con lo dispuesto en el presente capítulo, según corresponda.
+    - Se permite que los reguladores de presión equipados con medios para limitar el venteo, ventilen hacia el interior del conducto y aquellos que no se encuentren equipados con dichos medios, ventilen directamente hacia el exterior o hacia un punto ubicado a 30 (cm) del extremo de la parte superior del conducto.
+    - Si el gas combustible es más denso que el aire, el venteo deberá ventilar, directamente, sólo hacia el exterior.
+  
+  
+  2. Construcción.
+    - Las aberturas horizontales y verticales del conducto deberán tener la resistencia y protección contra incendios establecida en la “Ordenanza General de Urbanismo y Construcciones” o disposición que la reemplace.
+
+  3. Ventilación.
+    - Los conductos deberán ventilar sólo por su parte superior y hacia el exterior. La(s) abertura(s) de ventilación deberá(n) tener un área libre, no obstruida de la sección transversal de ésta, expresada en (cm2), de al menos, el doble del producto entre la presión máxima en la tubería -expresada en (bar)- y el mayor diámetro nominal de tal tubería -expresada en (mm)- o el área transversal del conducto, la que sea menor. Cuando se encuentre presente más de un sistema de gas, se deberá calcular el área libre para cada sistema y utilizar el área que resultare mayor.
+El alcance de esta disposición reconoce únicamente a los conductos verticales. Se considera que para una línea de gas horizontal serían preferibles uniones soldadas en vez de un conducto horizontal.
+  
+  
+   ###### Colgadores, Soportes y Anclajes.
+  1. Las tuberías de gas no deberán sujetar otras tuberías de gas.
+  2. Las tuberías de gas deberán ser ancladas para evitar que se produzcan tensiones indebidas en los artefactos conectados.
+  3. Las tuberías se deberán fijar con soportes para tubos, flejes y bandas de metal para tubos, colgadores o porta tubos de dimensiones acorde al tamaño de los mismos, de adecuada resistencia y calidad, ubicados a intervalos tales que eviten o amortigüen la excesiva vibración.
+  4. La distancia entre los soportes de las tuberías de las instalaciones de gas no deberá ser mayor que la indicada en la Tabla XII. Soporte de las tuberías.
+  
+  ![Soporte de las tuberias](https://user-images.githubusercontent.com/17385297/54396533-097f0680-4692-11e9-8e74-14c6f8ce260c.PNG)
+  
+  5. Los soportes, colgadores y anclajes se deberán instalar de modo de no interferir con la libre expansión y contracción de las tuberías ubicadas entre los anclajes. Todas las partes de los equipos de sostén deberán estar diseñadas e instaladas de modo de no soltarse debido al movimiento de las tuberías sustentadas.
+  
+   ###### Cambios de dirección de la Tubería de Gas. [Pagina 87]
+
+Los cambios de dirección en el tendido de la tubería de gas se deberán realizar mediante el concurso de accesorios, curvas realizadas en fábrica o in situ, cambios que deberán cumplir con los requisitos que se disponen a continuación.
+  1. Tubos Metálicos.
+  - El curvado de los tubos metálicos se deberá realizar sólo con equipos para curvar tubos -dobladora de tubos- o procedimientos especialmente destinados para ello.
+  - Todas las curvas deberán ser suaves y estar libres de combas, rajaduras o cualquier otra evidencia de daño mecánico.
+  - La soldadura longitudinal del tubo se deberá ubicar cerca del eje neutro de la curva.
+  - El tubo no se deberá curvar formando un arco de más de 90º.
+  - El radio interno de la curva deberá ser mayor que seis (6) veces el diámetro externo del tubo.
+  2. Tubos Plásticos.
+  - Cuando el fabricante de tubos lo especifique, sólo se deberá efectuar el curvado de tubos con los equipos o procedimientos indicados por éste.
+  - El curvado de los tubos plásticos deberá estar libre de daños y su diámetro interno no se deberá reducir en forma efectiva.
+  - En las curvas de los tubos no se deberán ubicar uniones.
+48.2.4 El radio interno de las curvas deberá ser mayor que 25 veces el diámetro interno del tubo.
+48.3 Curvas a Ingletes.
+Se prohíbe el uso de este tipo de curvas, a 45º.
+48.4 Codos.
+Para los tubos de diámetro nominal de 2” y superiores, se permite el uso de codos, construidos en fábrica, para conexiones soldadas o de segmentos transversales cortados de los mismos, siempre que la longitud del arco, medida a lo largo del radio de la curvatura menor, sea superior a 2,5 (cm).
+   
+   
